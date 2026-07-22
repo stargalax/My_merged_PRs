@@ -1,0 +1,425 @@
+[
+    {
+        "title": "New/xpath tester",
+        "number": 706,
+        "url": "https://github.com/praveenscience/One-File-Tools/pull/706",
+        "state": "MERGED",
+        "createdAt": "2026-07-22T11:40:58Z",
+        "mergedAt": "2026-07-22T11:52:14Z",
+        "closedAt": "2026-07-22T11:52:14Z",
+        "additions": 598,
+        "deletions": 0,
+        "changedFiles": 3,
+        "repository": {
+            "name": "One-File-Tools",
+            "owner": "praveenscience/One-File-Tools",
+            "url": "https://github.com/praveenscience/One-File-Tools",
+            "stars": 14,
+            "forks": 54,
+            "language": "HTML",
+            "topics": [
+                "browser-tools",
+                "css3",
+                "developer-experience",
+                "developer-tools",
+                "frontend",
+                "html",
+                "html5",
+                "javascript",
+                "no-build",
+                "offline-first"
+            ]
+        }
+    },
+    {
+        "title": "Csv formatter",
+        "number": 330,
+        "url": "https://github.com/Winter262005/Project-Toolsuite/pull/330",
+        "state": "MERGED",
+        "createdAt": "2026-07-03T16:00:31Z",
+        "mergedAt": "2026-07-05T10:36:48Z",
+        "closedAt": "2026-07-05T10:36:48Z",
+        "additions": 1869,
+        "deletions": 1002,
+        "changedFiles": 3,
+        "repository": {
+            "name": "Project-Toolsuite",
+            "owner": "Winter262005/Project-Toolsuite",
+            "url": "https://github.com/Winter262005/Project-Toolsuite",
+            "stars": 17,
+            "forks": 50,
+            "language": "HTML",
+            "topics": []
+        }
+    },
+    {
+        "title": "Bug: Signup routing fixed to show the right tab!",
+        "number": 129,
+        "url": "https://github.com/12fahed/CertiNova/pull/129",
+        "state": "MERGED",
+        "createdAt": "2026-06-22T07:56:35Z",
+        "mergedAt": "2026-06-23T17:55:39Z",
+        "closedAt": "2026-06-23T17:55:39Z",
+        "additions": 32,
+        "deletions": 3,
+        "changedFiles": 1,
+        "repository": {
+            "name": "CertiNova",
+            "owner": "12fahed/CertiNova",
+            "url": "https://github.com/12fahed/CertiNova",
+            "stars": 9,
+            "forks": 33,
+            "language": "TypeScript",
+            "topics": [
+                "automation",
+                "bulk-generation",
+                "certificate-generation",
+                "certificates",
+                "gssoc26",
+                "gssoc",
+                "ssoc2026",
+                "ssoc26"
+            ]
+        }
+    },
+    {
+        "title": "Landing page for new users",
+        "number": 141,
+        "url": "https://github.com/daviddprtma/AgroDex/pull/141",
+        "state": "MERGED",
+        "createdAt": "2026-06-21T07:57:27Z",
+        "mergedAt": "2026-06-22T13:49:47Z",
+        "closedAt": "2026-06-22T13:49:47Z",
+        "additions": 501,
+        "deletions": 14,
+        "changedFiles": 3,
+        "repository": {
+            "name": "AgroDex",
+            "owner": "daviddprtma/AgroDex",
+            "url": "https://github.com/daviddprtma/AgroDex",
+            "stars": 20,
+            "forks": 46,
+            "language": "TypeScript",
+            "topics": [
+                "gemini",
+                "hedera",
+                "react19",
+                "supabase",
+                "hedera-hackathon",
+                "expressjs",
+                "nodejs",
+                "tailwindcss",
+                "vite",
+                "hedera-hashgraph-sdk"
+            ]
+        }
+    },
+    {
+        "title": "github pages",
+        "number": 36,
+        "url": "https://github.com/Himanshu49Gaur/PhishDefender-PhishingResponseSystem/pull/36",
+        "state": "MERGED",
+        "createdAt": "2026-06-20T14:07:57Z",
+        "mergedAt": "2026-06-21T14:07:15Z",
+        "closedAt": "2026-06-21T14:07:15Z",
+        "additions": 1979,
+        "deletions": 0,
+        "changedFiles": 2,
+        "repository": {
+            "name": "PhishDefender-PhishingResponseSystem",
+            "owner": "Himanshu49Gaur/PhishDefender-PhishingResponseSystem",
+            "url": "https://github.com/Himanshu49Gaur/PhishDefender-PhishingResponseSystem",
+            "stars": 17,
+            "forks": 14,
+            "language": "Jupyter Notebook",
+            "topics": []
+        }
+    },
+    {
+        "title": "uichanges #47",
+        "number": 48,
+        "url": "https://github.com/prabhakarshukla/EduFlow-AI/pull/48",
+        "state": "MERGED",
+        "createdAt": "2026-06-03T16:57:32Z",
+        "mergedAt": "2026-06-04T05:33:27Z",
+        "closedAt": "2026-06-04T05:33:27Z",
+        "additions": 37,
+        "deletions": 46,
+        "changedFiles": 3,
+        "repository": {
+            "name": "EduFlow-AI",
+            "owner": "prabhakarshukla/EduFlow-AI",
+            "url": "https://github.com/prabhakarshukla/EduFlow-AI",
+            "stars": 7,
+            "forks": 30,
+            "language": "TypeScript",
+            "topics": []
+        }
+    },
+    {
+        "title": "link fixed to refer github page of the extension",
+        "number": 5,
+        "url": "https://github.com/itzzavdhesh/TabTwin/pull/5",
+        "state": "MERGED",
+        "createdAt": "2026-06-03T17:31:59Z",
+        "mergedAt": "2026-06-03T17:42:41Z",
+        "closedAt": "2026-06-03T17:42:41Z",
+        "additions": 1,
+        "deletions": 40,
+        "changedFiles": 2,
+        "repository": {
+            "name": "TabTwin",
+            "owner": "itzzavdhesh/TabTwin",
+            "url": "https://github.com/itzzavdhesh/TabTwin",
+            "stars": 0,
+            "forks": 14,
+            "language": "JavaScript",
+            "topics": [
+                "edulinkup",
+                "elusoc",
+                "gsoc",
+                "gssoc",
+                "gssoc2026",
+                "gssoc26",
+                "nodejs",
+                "react",
+                "ssoc2026",
+                "vite"
+            ]
+        }
+    },
+    {
+        "title": "name was not visibile in the presentation section",
+        "number": 213,
+        "url": "https://github.com/vinaysingh282006/Hacknova/pull/213",
+        "state": "MERGED",
+        "createdAt": "2026-02-14T12:07:30Z",
+        "mergedAt": "2026-02-26T16:25:34Z",
+        "closedAt": "2026-02-26T16:25:34Z",
+        "additions": 82,
+        "deletions": 43,
+        "changedFiles": 1,
+        "repository": {
+            "name": "Hacknova",
+            "owner": "vinaysingh282006/Hacknova",
+            "url": "https://github.com/vinaysingh282006/Hacknova",
+            "stars": 12,
+            "forks": 60,
+            "language": "HTML",
+            "topics": []
+        }
+    },
+    {
+        "title": "#74 issue resolved (synced with the main branch) ",
+        "number": 81,
+        "url": "https://github.com/iTusharyadav/proofolio/pull/81",
+        "state": "MERGED",
+        "createdAt": "2026-02-22T05:52:03Z",
+        "mergedAt": "2026-02-22T14:16:40Z",
+        "closedAt": "2026-02-22T14:16:40Z",
+        "additions": 167,
+        "deletions": 37,
+        "changedFiles": 4,
+        "repository": {
+            "name": "proofolio",
+            "owner": "iTusharyadav/proofolio",
+            "url": "https://github.com/iTusharyadav/proofolio",
+            "stars": 9,
+            "forks": 15,
+            "language": "TypeScript",
+            "topics": []
+        }
+    },
+    {
+        "title": "added the interactive demo link",
+        "number": 79,
+        "url": "https://github.com/Amansingh0807/GenForm/pull/79",
+        "state": "MERGED",
+        "createdAt": "2026-02-19T07:11:29Z",
+        "mergedAt": "2026-02-21T06:31:41Z",
+        "closedAt": "2026-02-21T06:31:41Z",
+        "additions": 58,
+        "deletions": 13,
+        "changedFiles": 4,
+        "repository": {
+            "name": "GenForm",
+            "owner": "Amansingh0807/GenForm",
+            "url": "https://github.com/Amansingh0807/GenForm",
+            "stars": 17,
+            "forks": 30,
+            "language": "TypeScript",
+            "topics": [
+                "iconscout",
+                "clerk",
+                "generative-ai",
+                "nextjs14",
+                "prompting",
+                "reactjs",
+                "stripe-payments",
+                "supabase",
+                "typescript"
+            ]
+        }
+    },
+    {
+        "title": "changed location and linked linkedin to direct to the correct profile",
+        "number": 176,
+        "url": "https://github.com/hitesh-kumar123/Smart-Rent-System/pull/176",
+        "state": "MERGED",
+        "createdAt": "2026-02-15T12:58:24Z",
+        "mergedAt": "2026-02-16T19:10:30Z",
+        "closedAt": "2026-02-16T19:10:30Z",
+        "additions": 14,
+        "deletions": 12,
+        "changedFiles": 4,
+        "repository": {
+            "name": "Smart-Rent-System",
+            "owner": "hitesh-kumar123/Smart-Rent-System",
+            "url": "https://github.com/hitesh-kumar123/Smart-Rent-System",
+            "stars": 27,
+            "forks": 56,
+            "language": "JavaScript",
+            "topics": [
+                "react",
+                "beginner-friendly",
+                "express",
+                "javascript",
+                "mern-stack",
+                "nodejs",
+                "open-source",
+                "real-estate",
+                "rental-platform",
+                "swoc"
+            ]
+        }
+    },
+    {
+        "title": "Fixeddocimg",
+        "number": 425,
+        "url": "https://github.com/Dipanita45/HEALCONNECT/pull/425",
+        "state": "MERGED",
+        "createdAt": "2026-02-12T17:53:24Z",
+        "mergedAt": "2026-02-13T15:50:04Z",
+        "closedAt": "2026-02-13T15:50:04Z",
+        "additions": 539,
+        "deletions": 538,
+        "changedFiles": 3,
+        "repository": {
+            "name": "HEALCONNECT",
+            "owner": "Dipanita45/HEALCONNECT",
+            "url": "https://github.com/Dipanita45/HEALCONNECT",
+            "stars": 42,
+            "forks": 113,
+            "language": "JavaScript",
+            "topics": []
+        }
+    },
+    {
+        "title": "added Template/ContactUs",
+        "number": 42,
+        "url": "https://github.com/Amansingh0807/GenForm/pull/42",
+        "state": "MERGED",
+        "createdAt": "2026-01-14T07:47:46Z",
+        "mergedAt": "2026-01-14T10:49:45Z",
+        "closedAt": "2026-01-14T10:49:46Z",
+        "additions": 74,
+        "deletions": 0,
+        "changedFiles": 2,
+        "repository": {
+            "name": "GenForm",
+            "owner": "Amansingh0807/GenForm",
+            "url": "https://github.com/Amansingh0807/GenForm",
+            "stars": 17,
+            "forks": 30,
+            "language": "TypeScript",
+            "topics": [
+                "iconscout",
+                "clerk",
+                "generative-ai",
+                "nextjs14",
+                "prompting",
+                "reactjs",
+                "stripe-payments",
+                "supabase",
+                "typescript"
+            ]
+        }
+    },
+    {
+        "title": "Templates/order form",
+        "number": 41,
+        "url": "https://github.com/Amansingh0807/GenForm/pull/41",
+        "state": "MERGED",
+        "createdAt": "2026-01-13T17:17:54Z",
+        "mergedAt": "2026-01-13T17:46:02Z",
+        "closedAt": "2026-01-13T17:46:02Z",
+        "additions": 132,
+        "deletions": 1,
+        "changedFiles": 3,
+        "repository": {
+            "name": "GenForm",
+            "owner": "Amansingh0807/GenForm",
+            "url": "https://github.com/Amansingh0807/GenForm",
+            "stars": 17,
+            "forks": 30,
+            "language": "TypeScript",
+            "topics": [
+                "iconscout",
+                "clerk",
+                "generative-ai",
+                "nextjs14",
+                "prompting",
+                "reactjs",
+                "stripe-payments",
+                "supabase",
+                "typescript"
+            ]
+        }
+    },
+    {
+        "title": "Added PDF download",
+        "number": 97,
+        "url": "https://github.com/aliviahossain/Disease-prediction/pull/97",
+        "state": "MERGED",
+        "createdAt": "2026-01-01T16:30:51Z",
+        "mergedAt": "2026-01-02T05:02:24Z",
+        "closedAt": "2026-01-02T05:02:24Z",
+        "additions": 534,
+        "deletions": 168,
+        "changedFiles": 5,
+        "repository": {
+            "name": "Disease-prediction",
+            "owner": "aliviahossain/Disease-prediction",
+            "url": "https://github.com/aliviahossain/Disease-prediction",
+            "stars": 74,
+            "forks": 156,
+            "language": "Python",
+            "topics": [
+                "hacktoberfest",
+                "swoc26",
+                "gssoc26"
+            ]
+        }
+    },
+    {
+        "title": "submiision",
+        "number": 1,
+        "url": "https://github.com/Wilcolab/Anythink-Market-a01k0mn9/pull/1",
+        "state": "MERGED",
+        "createdAt": "2025-11-13T15:14:31Z",
+        "mergedAt": "2025-11-13T15:18:36Z",
+        "closedAt": "2025-11-13T15:18:36Z",
+        "additions": 346,
+        "deletions": 0,
+        "changedFiles": 5,
+        "repository": {
+            "name": "Anythink-Market-a01k0mn9",
+            "owner": "Wilcolab/Anythink-Market-a01k0mn9",
+            "url": "https://github.com/Wilcolab/Anythink-Market-a01k0mn9",
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "topics": []
+        }
+    }
+]
