@@ -29,12 +29,17 @@ jobs:
       
       - run: python scripts/generate_readme.py
 
+      - name: Check generated files
+        run: |
+          ls -la
+          ls -la output
+
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add output/prs.json
+          git add README.md output/prs.json
 
           git diff --cached --quiet || git commit -m "Update PR data"
 
