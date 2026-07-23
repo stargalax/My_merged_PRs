@@ -57,7 +57,7 @@
 
 ## Dipanita45/HEALCONNECT
 
-⭐ 42 stars • JavaScript
+⭐ 41 stars • JavaScript
 
 -  [#425](https://github.com/Dipanita45/HEALCONNECT/pull/425) — Fixeddocimg
 
@@ -81,7 +81,7 @@
 
 ## aliviahossain/Disease-prediction
 
-⭐ 74 stars • Python
+⭐ 73 stars • Python
 
 -  [#97](https://github.com/aliviahossain/Disease-prediction/pull/97) — Added PDF download
 
