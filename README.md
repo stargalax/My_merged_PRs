@@ -105,7 +105,7 @@
 
 ## itzzavdhesh/TabTwin
 
-⭐ 0 stars • JavaScript
+⭐ 1 stars • JavaScript
 
 -  [#5](https://github.com/itzzavdhesh/TabTwin/pull/5) — link fixed to refer github page of the extension
 
