@@ -67,8 +67,8 @@
             "name": "CertiNova",
             "owner": "12fahed/CertiNova",
             "url": "https://github.com/12fahed/CertiNova",
-            "stars": 9,
-            "forks": 33,
+            "stars": 10,
+            "forks": 34,
             "language": "TypeScript",
             "topics": [
                 "automation",
@@ -391,8 +391,8 @@
             "name": "Disease-prediction",
             "owner": "aliviahossain/Disease-prediction",
             "url": "https://github.com/aliviahossain/Disease-prediction",
-            "stars": 73,
-            "forks": 154,
+            "stars": 74,
+            "forks": 155,
             "language": "Python",
             "topics": [
                 "hacktoberfest",

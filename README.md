@@ -43,7 +43,7 @@
 
 ## 12fahed/CertiNova
 
-⭐ 9 stars • TypeScript
+⭐ 10 stars • TypeScript
 
 -  [#129](https://github.com/12fahed/CertiNova/pull/129) — Bug: Signup routing fixed to show the right tab!
 
@@ -81,7 +81,7 @@
 
 ## aliviahossain/Disease-prediction
 
-⭐ 73 stars • Python
+⭐ 74 stars • Python
 
 -  [#97](https://github.com/aliviahossain/Disease-prediction/pull/97) — Added PDF download
 
