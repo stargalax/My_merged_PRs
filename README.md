@@ -111,13 +111,13 @@
 
 ## prabhakarshukla/EduFlow-AI
 
-⭐ 7 stars • TypeScript
+⭐ 8 stars • TypeScript
 
 -  [#48](https://github.com/prabhakarshukla/EduFlow-AI/pull/48) — uichanges #47
 
 ## praveenscience/One-File-Tools
 
-⭐ 15 stars • HTML
+⭐ 16 stars • HTML
 
 -  [#706](https://github.com/praveenscience/One-File-Tools/pull/706) — New/xpath tester
 
