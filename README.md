@@ -117,7 +117,7 @@
 
 ## praveenscience/One-File-Tools
 
-⭐ 16 stars • HTML
+⭐ 18 stars • HTML
 
 -  [#706](https://github.com/praveenscience/One-File-Tools/pull/706) — New/xpath tester
 
