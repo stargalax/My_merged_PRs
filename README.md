@@ -87,7 +87,7 @@
 
 ## daviddprtma/AgroDex
 
-⭐ 20 stars • TypeScript
+⭐ 21 stars • TypeScript
 
 -  [#141](https://github.com/daviddprtma/AgroDex/pull/141) — Landing page for new users
 
