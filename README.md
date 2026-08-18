@@ -57,7 +57,7 @@
 
 ## Dipanita45/HEALCONNECT
 
-⭐ 41 stars • JavaScript
+⭐ 40 stars • JavaScript
 
 -  [#425](https://github.com/Dipanita45/HEALCONNECT/pull/425) — Fixeddocimg
 
