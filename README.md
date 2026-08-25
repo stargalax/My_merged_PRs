@@ -93,7 +93,7 @@
 
 ## hitesh-kumar123/Smart-Rent-System
 
-⭐ 27 stars • JavaScript
+⭐ 26 stars • JavaScript
 
 -  [#176](https://github.com/hitesh-kumar123/Smart-Rent-System/pull/176) — changed location and linked linkedin to direct to the correct profile
 
