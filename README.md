@@ -81,7 +81,7 @@
 
 ## aliviahossain/Disease-prediction
 
-⭐ 74 stars • Python
+⭐ 73 stars • Python
 
 -  [#97](https://github.com/aliviahossain/Disease-prediction/pull/97) — Added PDF download
 
@@ -117,7 +117,7 @@
 
 ## praveenscience/One-File-Tools
 
-⭐ 18 stars • HTML
+⭐ 19 stars • HTML
 
 -  [#706](https://github.com/praveenscience/One-File-Tools/pull/706) — New/xpath tester
 
