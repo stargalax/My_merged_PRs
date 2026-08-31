@@ -75,7 +75,7 @@
 
 ## Winter262005/Project-Toolsuite
 
-⭐ 18 stars • HTML
+⭐ 17 stars • HTML
 
 -  [#330](https://github.com/Winter262005/Project-Toolsuite/pull/330) — Csv formatter
 
