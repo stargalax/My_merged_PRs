@@ -99,7 +99,7 @@
 
 ## iTusharyadav/proofolio
 
-⭐ 9 stars • TypeScript
+⭐ 10 stars • TypeScript
 
 -  [#81](https://github.com/iTusharyadav/proofolio/pull/81) — #74 issue resolved (synced with the main branch) 
 
