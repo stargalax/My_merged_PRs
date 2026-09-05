@@ -111,7 +111,7 @@
 
 ## prabhakarshukla/EduFlow-AI
 
-⭐ 10 stars • TypeScript
+⭐ 11 stars • TypeScript
 
 -  [#48](https://github.com/prabhakarshukla/EduFlow-AI/pull/48) — uichanges #47
 
