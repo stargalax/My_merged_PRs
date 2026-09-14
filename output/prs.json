@@ -157,38 +157,6 @@
         }
     },
     {
-        "title": "link fixed to refer github page of the extension",
-        "number": 5,
-        "url": "https://github.com/itzzavdhesh/TabTwin/pull/5",
-        "state": "MERGED",
-        "createdAt": "2026-06-03T17:31:59Z",
-        "mergedAt": "2026-06-03T17:42:41Z",
-        "closedAt": "2026-06-03T17:42:41Z",
-        "additions": 1,
-        "deletions": 40,
-        "changedFiles": 2,
-        "repository": {
-            "name": "TabTwin",
-            "owner": "itzzavdhesh/TabTwin",
-            "url": "https://github.com/itzzavdhesh/TabTwin",
-            "stars": 0,
-            "forks": 12,
-            "language": "JavaScript",
-            "topics": [
-                "edulinkup",
-                "elusoc",
-                "gsoc",
-                "gssoc",
-                "gssoc2026",
-                "gssoc26",
-                "nodejs",
-                "react",
-                "ssoc2026",
-                "vite"
-            ]
-        }
-    },
-    {
         "title": "name was not visibile in the presentation section",
         "number": 213,
         "url": "https://github.com/vinaysingh282006/Hacknova/pull/213",

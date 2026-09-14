@@ -6,10 +6,10 @@
 
 | Metric | Value |
 |---|---:|
-| Merged PRs | **16** |
-| Repositories | **14** |
-| Total Additions | **6,963** |
-| Total Deletions | **1,917** |
+| Merged PRs | **15** |
+| Repositories | **13** |
+| Total Additions | **6,962** |
+| Total Deletions | **1,877** |
 
 ## ✍️(◔◡◔) Top Repositories
 
@@ -22,9 +22,9 @@
 | daviddprtma/AgroDex | 1 |
 | Himanshu49Gaur/PhishDefender-PhishingResponseSystem | 1 |
 | prabhakarshukla/EduFlow-AI | 1 |
-| itzzavdhesh/TabTwin | 1 |
 | vinaysingh282006/Hacknova | 1 |
 | iTusharyadav/proofolio | 1 |
+| hitesh-kumar123/Smart-Rent-System | 1 |
 
 ## (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Recently Merged
 
@@ -34,10 +34,10 @@
 - **daviddprtma/AgroDex** [#141](https://github.com/daviddprtma/AgroDex/pull/141) — Landing page for new users
 - **Himanshu49Gaur/PhishDefender-PhishingResponseSystem** [#36](https://github.com/Himanshu49Gaur/PhishDefender-PhishingResponseSystem/pull/36) — github pages
 - **prabhakarshukla/EduFlow-AI** [#48](https://github.com/prabhakarshukla/EduFlow-AI/pull/48) — uichanges #47
-- **itzzavdhesh/TabTwin** [#5](https://github.com/itzzavdhesh/TabTwin/pull/5) — link fixed to refer github page of the extension
 - **vinaysingh282006/Hacknova** [#213](https://github.com/vinaysingh282006/Hacknova/pull/213) — name was not visibile in the presentation section
 - **iTusharyadav/proofolio** [#81](https://github.com/iTusharyadav/proofolio/pull/81) — #74 issue resolved (synced with the main branch) 
 - **Amansingh0807/GenForm** [#79](https://github.com/Amansingh0807/GenForm/pull/79) — added the interactive demo link
+- **hitesh-kumar123/Smart-Rent-System** [#176](https://github.com/hitesh-kumar123/Smart-Rent-System/pull/176) — changed location and linked linkedin to direct to the correct profile
 
 # (〃￣︶￣)人(￣︶￣〃) All Contributions
 
@@ -102,12 +102,6 @@
 ⭐ 10 stars • TypeScript
 
 -  [#81](https://github.com/iTusharyadav/proofolio/pull/81) — #74 issue resolved (synced with the main branch) 
-
-## itzzavdhesh/TabTwin
-
-⭐ 0 stars • JavaScript
-
--  [#5](https://github.com/itzzavdhesh/TabTwin/pull/5) — link fixed to refer github page of the extension
 
 ## prabhakarshukla/EduFlow-AI
 
