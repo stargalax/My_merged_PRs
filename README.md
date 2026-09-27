@@ -49,7 +49,7 @@
 
 ## Amansingh0807/GenForm
 
-⭐ 17 stars • TypeScript
+⭐ 16 stars • TypeScript
 
 -  [#79](https://github.com/Amansingh0807/GenForm/pull/79) — added the interactive demo link
 -  [#42](https://github.com/Amansingh0807/GenForm/pull/42) — added Template/ContactUs
