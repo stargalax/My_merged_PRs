@@ -49,7 +49,7 @@
 
 ## Amansingh0807/GenForm
 
-⭐ 16 stars • TypeScript
+⭐ 17 stars • TypeScript
 
 -  [#79](https://github.com/Amansingh0807/GenForm/pull/79) — added the interactive demo link
 -  [#42](https://github.com/Amansingh0807/GenForm/pull/42) — added Template/ContactUs
@@ -93,7 +93,7 @@
 
 ## hitesh-kumar123/Smart-Rent-System
 
-⭐ 30 stars • JavaScript
+⭐ 31 stars • JavaScript
 
 -  [#176](https://github.com/hitesh-kumar123/Smart-Rent-System/pull/176) — changed location and linked linkedin to direct to the correct profile
 
