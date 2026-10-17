@@ -81,7 +81,7 @@
 
 ## aliviahossain/Disease-prediction
 
-⭐ 72 stars • Python
+⭐ 71 stars • Python
 
 -  [#97](https://github.com/aliviahossain/Disease-prediction/pull/97) — Added PDF download
 
