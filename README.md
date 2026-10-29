@@ -43,7 +43,7 @@
 
 ## 12fahed/CertiNova
 
-⭐ 10 stars • TypeScript
+⭐ 11 stars • TypeScript
 
 -  [#129](https://github.com/12fahed/CertiNova/pull/129) — Bug: Signup routing fixed to show the right tab!
 
