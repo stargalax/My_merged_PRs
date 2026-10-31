@@ -81,7 +81,7 @@
 
 ## aliviahossain/Disease-prediction
 
-⭐ 71 stars • Python
+⭐ 70 stars • Python
 
 -  [#97](https://github.com/aliviahossain/Disease-prediction/pull/97) — Added PDF download
 
@@ -93,7 +93,7 @@
 
 ## hitesh-kumar123/Smart-Rent-System
 
-⭐ 37 stars • JavaScript
+⭐ 36 stars • JavaScript
 
 -  [#176](https://github.com/hitesh-kumar123/Smart-Rent-System/pull/176) — changed location and linked linkedin to direct to the correct profile
 
