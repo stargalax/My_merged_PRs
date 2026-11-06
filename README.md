@@ -63,7 +63,7 @@
 
 ## Himanshu49Gaur/PhishDefender-PhishingResponseSystem
 
-⭐ 19 stars • Jupyter Notebook
+⭐ 20 stars • Jupyter Notebook
 
 -  [#36](https://github.com/Himanshu49Gaur/PhishDefender-PhishingResponseSystem/pull/36) — github pages
 
@@ -93,7 +93,7 @@
 
 ## hitesh-kumar123/Smart-Rent-System
 
-⭐ 41 stars • JavaScript
+⭐ 42 stars • JavaScript
 
 -  [#176](https://github.com/hitesh-kumar123/Smart-Rent-System/pull/176) — changed location and linked linkedin to direct to the correct profile
 
