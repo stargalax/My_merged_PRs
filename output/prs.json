@@ -159,7 +159,7 @@
     {
         "title": "link fixed to refer github page of the extension",
         "number": 5,
-        "url": "https://github.com/itzzavdhesh/TabTwin/pull/5",
+        "url": "https://github.com/Itzzavdheshh/TabTwin/pull/5",
         "state": "MERGED",
         "createdAt": "2026-06-03T17:31:59Z",
         "mergedAt": "2026-06-03T17:42:41Z",
@@ -169,8 +169,8 @@
         "changedFiles": 2,
         "repository": {
             "name": "TabTwin",
-            "owner": "itzzavdhesh/TabTwin",
-            "url": "https://github.com/itzzavdhesh/TabTwin",
+            "owner": "Itzzavdheshh/TabTwin",
+            "url": "https://github.com/Itzzavdheshh/TabTwin",
             "stars": 0,
             "forks": 12,
             "language": "JavaScript",
@@ -309,7 +309,7 @@
             "owner": "Dipanita45/HEALCONNECT",
             "url": "https://github.com/Dipanita45/HEALCONNECT",
             "stars": 40,
-            "forks": 112,
+            "forks": 111,
             "language": "JavaScript",
             "topics": []
         }
