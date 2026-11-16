@@ -63,7 +63,7 @@
 
 ## Himanshu49Gaur/PhishDefender-PhishingResponseSystem
 
-⭐ 20 stars • Jupyter Notebook
+⭐ 19 stars • Jupyter Notebook
 
 -  [#36](https://github.com/Himanshu49Gaur/PhishDefender-PhishingResponseSystem/pull/36) — github pages
 
@@ -117,7 +117,7 @@
 
 ## praveenscience/One-File-Tools
 
-⭐ 21 stars • HTML
+⭐ 22 stars • HTML
 
 -  [#706](https://github.com/praveenscience/One-File-Tools/pull/706) — New/xpath tester
 
